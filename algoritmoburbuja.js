@@ -22,6 +22,8 @@ lista.push(parseInt(valor8));
 lista.push(parseInt(valor9));
 lista.push(parseInt(valor10));
 
+Burbuja();
+
 function Burbuja() {
     
     var n, i, k, aux;
